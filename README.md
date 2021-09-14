@@ -1,2 +1,2 @@
-# DancingObjects
-Unity 3D dancing objects example using the "Timeline" and "Animator" features.
+# Platonic Solids
+Unity 3D dancing platonic solids example using the "Timeline" and "Animator" features.
