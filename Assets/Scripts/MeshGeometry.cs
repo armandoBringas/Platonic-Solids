@@ -4,6 +4,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using PlatonicSolids;
 
+/*
+ * To understand how to build the platonic solid geometries
+ * please refer to the next document:
+ * http://www.sacred-geometry.es/?q=en/content/phi-sacred-solids
+ */
 public class MeshGeometry : MonoBehaviour
 {
     private enum PlatonicSolidSelection
@@ -71,8 +76,6 @@ public class MeshGeometry : MonoBehaviour
             _ => null,
         };
     }
-
-    // http://www.sacred-geometry.es/?q=en/content/phi-sacred-solids
 }
 
 
