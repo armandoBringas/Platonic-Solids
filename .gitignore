@@ -29,6 +29,7 @@
 ExportedObj/
 .consulo/
 *.csproj
+*.cs.meta
 *.unityproj
 *.sln
 *.suo
